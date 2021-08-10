@@ -16,7 +16,7 @@ end
 # ╔═╡ d7bf8b8d-de6b-4783-895c-e2f5a1850067
 begin
 	import Pkg
-	Pkg.activate()
+	Pkg.activate(".")
 	Pkg.add("Plots")
 	Pkg.add("CSV")
 	Pkg.add("DataFrames")
