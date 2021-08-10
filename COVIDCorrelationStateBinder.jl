@@ -17,14 +17,14 @@ end
 begin
 	import Pkg
 	Pkg.activate(".")
-	Pkg.add("Plots")
-	Pkg.add("CSV")
-	Pkg.add("DataFrames")
-	Pkg.add("Dates")
-	Pkg.add("ImageFiltering")
-	Pkg.add("OffsetArrays")
-	Pkg.add("Statistics")
-	Pkg.add("PlutoUI")
+	# Pkg.add("Plots")
+	# Pkg.add("CSV")
+	# Pkg.add("DataFrames")
+	# Pkg.add("Dates")
+	# Pkg.add("ImageFiltering")
+	# Pkg.add("OffsetArrays")
+	# Pkg.add("Statistics")
+	# Pkg.add("PlutoUI")
 end
 
 # ╔═╡ ef23d264-448e-11eb-10f8-ad25ae5f244d
